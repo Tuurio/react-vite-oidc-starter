@@ -36,7 +36,7 @@ Never paste credentials, client secrets, authorization codes, tokens, session co
 
 ## Security model
 
-This starter uses OpenID Connect Authorization Code flow. Browser clients use PKCE S256 and contain no client secret. Redirect and post-logout redirect URIs must match exactly. The framework OIDC integration validates issuer, audience, signature, time claims, state, and nonce before authenticated state is accepted. Keep generated local environment files ignored and never commit tokens or credentials.
+This starter uses OpenID Connect Authorization Code flow. Browser and native clients use PKCE S256 and contain no client secret. Redirect and post-logout redirect URIs must match exactly. Identity comes from the established OIDC integration or an authenticated UserInfo request; decoded JWT payloads are never treated as validation. Keep generated local environment files ignored and never commit tokens or credentials.
 
 ## Framework instructions
 

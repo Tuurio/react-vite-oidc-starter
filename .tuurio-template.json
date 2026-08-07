@@ -1,8 +1,9 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceRepository": "Tuurio/auth_samples",
   "sourcePath": "auth_samples_react",
-  "sourceSha": "e883b1cb522a3aeb544a68bdd93a2d4c1d4606bb",
+  "sourceSha": "6833b4a83ac9aaa09f289f5de9d02aa1fa053e7d",
+  "packageSha256": "dc7eb4f8e03be1d80cd33918e1117fc7de7d9cc77ae83ce2932ff613e1fea44c",
   "templateId": "react-vite",
   "managedFiles": [
     {
@@ -11,7 +12,7 @@
     },
     {
       "path": ".github/workflows/verify.yml",
-      "sha256": "39a57bff86ae238c34e44f87935c11e3291734a1cae44dc5c42ee92372a3b340"
+      "sha256": "8f50c22605a424371bed63cbaae725cb3606567a57acf2a443dac7975e37e4dc"
     },
     {
       "path": ".gitignore",
@@ -31,7 +32,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "b27a23cbc624f5ff0b82683603b44d17663146f4b2bbfd634192d877f08d5579"
+      "sha256": "303a0504c6ce706a811670532ab947e5d401daee26c9a6677eabb5da336dd6ba"
     },
     {
       "path": "eslint.config.js",
