@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "sourceRepository": "Tuurio/auth_samples",
+  "sourcePath": "auth_samples_react",
+  "sourceSha": "e883b1cb522a3aeb544a68bdd93a2d4c1d4606bb",
+  "templateId": "react-vite",
+  "managedFiles": [
+    {
+      "path": ".env.example",
+      "sha256": "26f81ce3f84db9def51a39f00a2e3560109dd635c61e107bd7ec43a68dbf49fe"
+    },
+    {
+      "path": ".github/workflows/verify.yml",
+      "sha256": "39a57bff86ae238c34e44f87935c11e3291734a1cae44dc5c42ee92372a3b340"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "fe718e7babb14f3cbad2d97f08889b9ce5215ed3fe0e43b2b8cfbfb3b9b844e8"
+    },
+    {
+      "path": ".stackblitzrc",
+      "sha256": "f821aad5c3129fad9f8691d352883d3cc515e12d873739c1a0011787d3a9f63d"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "sha256": "6421ff03f0072265b10251763a19e2416af8d5559ce0d9761a7fefd72ba268da"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "README.md",
+      "sha256": "b27a23cbc624f5ff0b82683603b44d17663146f4b2bbfd634192d877f08d5579"
+    },
+    {
+      "path": "eslint.config.js",
+      "sha256": "4efe97b16d1200fac0eaf07aa00930a8668b1f96a0be1891ace8c1e712ff0ccb"
+    },
+    {
+      "path": "index.html",
+      "sha256": "5be0aa3b2afb93a2ea3a63f4f5ac6d81c888377d8c1335a5b3a498e2451ba0df"
+    },
+    {
+      "path": "package-lock.json",
+      "sha256": "d905497265f1e062b12b785e565aab159e917b8f0f3a7141788eef5187d6bf55"
+    },
+    {
+      "path": "package.json",
+      "sha256": "614f67d9ec2d01573fa2ad4d1cbdc3088bb271196a65c421755f145909c96f74"
+    },
+    {
+      "path": "src/App.css",
+      "sha256": "428de61a5947bb674987c5376cea27def303e105a24a8338de4c25e3084389fe"
+    },
+    {
+      "path": "src/App.tsx",
+      "sha256": "6c74c14588bba25debbb8e9261a299793071303aa0c50080a33ffb5521fed416"
+    },
+    {
+      "path": "src/AuthProvider.tsx",
+      "sha256": "e0368bf900742a76220c492331505459d4e4642d6abee69217dff1ff62a67967"
+    },
+    {
+      "path": "src/auth.ts",
+      "sha256": "cc9889df540a97261c35429a8b8e2810992529e67274b70aa3e8b6aaca26f367"
+    },
+    {
+      "path": "src/index.css",
+      "sha256": "a9511429bbfae1cc2156e71bf6d17c0e6ab03fa30cbc135f3cad3af833525f79"
+    },
+    {
+      "path": "src/main.tsx",
+      "sha256": "9d7cf3505247c456d95a00c0a0ffaff55a8eb1fbdfbc586bcefcdc7cbdeb1225"
+    },
+    {
+      "path": "tsconfig.app.json",
+      "sha256": "922bc5bfb41bdc0768023b2487d54b3ae23c587d999024d4f32cde879ae6f4d8"
+    },
+    {
+      "path": "tsconfig.json",
+      "sha256": "770b4140bbb581e2dfd9ea9946ffc9c75a1d86ba7d2db5f77c83e37cbdf9d808"
+    },
+    {
+      "path": "tsconfig.node.json",
+      "sha256": "c3dd0fb522feba3596713f51b95bd53d781d845d24aedbfa2ac093d8b39c5120"
+    },
+    {
+      "path": "vite.config.ts",
+      "sha256": "4d36db3522a7b2dd10e0936e1004373c7ee65f10f7cd7920cd76410459c15a45"
+    }
+  ]
+}
