@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "sourceRepository": "Tuurio/auth_samples",
   "sourcePath": "auth_samples_react",
-  "sourceSha": "6833b4a83ac9aaa09f289f5de9d02aa1fa053e7d",
+  "sourceSha": "fd87414e420b10fc0ca59d5552595d1b51be6230",
   "packageSha256": "dc7eb4f8e03be1d80cd33918e1117fc7de7d9cc77ae83ce2932ff613e1fea44c",
   "templateId": "react-vite",
   "managedFiles": [
