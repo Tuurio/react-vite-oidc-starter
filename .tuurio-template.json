@@ -2,8 +2,8 @@
   "schemaVersion": 2,
   "sourceRepository": "Tuurio/auth_samples",
   "sourcePath": "auth_samples_react",
-  "sourceSha": "ee751281bb9cedc2d269c3e21e6e0d544cf2cbf8",
-  "packageSha256": "a2ac21797977a78d9ebb4f21a3040efaeee8707568eeae081ced1645f194edda",
+  "sourceSha": "7e52e3bf428164ad36fd550011263ac9d6848761",
+  "packageSha256": "f1827db38d21cf4ca57e6ed62d3ac06048901d378226ebe3d3635418ba0a9548",
   "templateId": "react-vite",
   "managedFiles": [
     {
@@ -52,7 +52,7 @@
     },
     {
       "path": "package-lock.json",
-      "sha256": "d905497265f1e062b12b785e565aab159e917b8f0f3a7141788eef5187d6bf55"
+      "sha256": "8926a42d01d291f5772ed16f88143071b77fb8661ba6fa8107b817eb4e04c08d"
     },
     {
       "path": "package.json",
